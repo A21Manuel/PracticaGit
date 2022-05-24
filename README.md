@@ -67,4 +67,4 @@ public static boolean esPrimo(int número) {
 ### Mencionar
 Para mencionar a una persona o equipo se utiliza @ 
 @ManuelVazquezCasti
-Tambien se pueden añadir citas *
+>Tambien se pueden añadir citas 
